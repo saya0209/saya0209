@@ -75,5 +75,3 @@ Here are some ideas to get you started:
 - **GitHub**: [saya0209](https://github.com/saya0209)  
 
 ---
-
-> 이 README는 당신의 GitHub 프로필을 더욱 돋보이게 만들기 위한 템플릿입니다. 필요에 맞게 수정해서 사용하세요! 😊  
