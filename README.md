@@ -26,11 +26,6 @@
 
 ---
 
-## 🌐 My Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saya0209&layout=compact&theme=radical)  
-
----
-
 ## 💌 Contact Me  
 
 - **Email**: sik140071@gmail.com 
