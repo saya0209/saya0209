@@ -1,10 +1,3 @@
-# 👋 Hi there! Welcome to my GitHub profile!  
-
-![Profile Views](https://komarev.com/ghpvc/?username=saya0209&color=blueviolet)  
-![Followers](https://img.shields.io/github/followers/saya0209?style=social)  
-![Stars](https://img.shields.io/github/stars/saya0209?style=social)  
-
----
 
 ## 🌟 About Me  
 
