@@ -7,7 +7,7 @@
 
 ### 🔭 현재 하고 있는 일:  
 - Java, Python 풀스택 교육 수료중  
-- Datadog 개인적으로 공부중
+- Datadog 공부중
 
 ### 🌱 배우고 있는 것:  
 - react, node.js 
